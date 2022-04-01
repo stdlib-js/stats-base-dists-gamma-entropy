@@ -1,0 +1,36 @@
+{
+  "name": "@stdlib/stats-base-dists-gamma-entropy",
+  "version": "0.0.0",
+  "description": "Gamma distribution differential entropy.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/stats-base-dists-gamma-entropy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "statistics",
+    "stats",
+    "distribution",
+    "dist",
+    "entropy",
+    "information",
+    "shannon",
+    "nats",
+    "continuous",
+    "probability",
+    "prob",
+    "gamma",
+    "univariate"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
