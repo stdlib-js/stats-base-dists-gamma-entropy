@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-dists-gamma-entropy",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Gamma distribution differential entropy.",
   "license": "Apache-2.0",
   "author": {
@@ -37,21 +37,21 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/math-base-special-digamma": "^0.2.0",
-    "@stdlib/math-base-special-gammaln": "^0.2.0",
-    "@stdlib/math-base-special-ln": "^0.2.0"
+    "@stdlib/math-base-special-digamma": "^0.2.1",
+    "@stdlib/math-base-special-gammaln": "^0.2.1",
+    "@stdlib/math-base-special-ln": "^0.2.1"
   },
   "devDependencies": {
-    "@stdlib/constants-float64-eps": "^0.2.0",
-    "@stdlib/constants-float64-ninf": "^0.2.0",
-    "@stdlib/constants-float64-pinf": "^0.2.0",
-    "@stdlib/math-base-assert-is-nan": "^0.2.0",
+    "@stdlib/constants-float64-eps": "^0.2.1",
+    "@stdlib/constants-float64-ninf": "^0.2.1",
+    "@stdlib/constants-float64-pinf": "^0.2.1",
+    "@stdlib/math-base-assert-is-nan": "^0.2.1",
     "@stdlib/math-base-special-abs": "^0.2.0",
-    "@stdlib/random-base-randu": "^0.1.0",
+    "@stdlib/random-base-randu": "^0.2.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.0"
+    "@stdlib/bench-harness": "^0.2.1"
   },
   "engines": {
     "node": ">=0.10.0",
