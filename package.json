@@ -39,7 +39,8 @@
   "dependencies": {
     "@stdlib/math-base-special-digamma": "^0.2.1",
     "@stdlib/math-base-special-gammaln": "^0.2.1",
-    "@stdlib/math-base-special-ln": "^0.2.1"
+    "@stdlib/math-base-special-ln": "^0.2.1",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.1"
   },
   "devDependencies": {
     "@stdlib/constants-float64-eps": "^0.2.1",
