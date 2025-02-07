@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-02-07)
+
+<section class="features">
+
+### Features
+
+-   [`78c8b3c`](https://github.com/stdlib-js/stdlib/commit/78c8b3cd1b7116442b4fc0106cf4f6aec5bb0e51) - add C implementation for `stats/base/dists/gamma/entropy` [(#4349)](https://github.com/stdlib-js/stdlib/pull/4349)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3618](https://github.com/stdlib-js/stdlib/issues/3618)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`78c8b3c`](https://github.com/stdlib-js/stdlib/commit/78c8b3cd1b7116442b4fc0106cf4f6aec5bb0e51) - **feat:** add C implementation for `stats/base/dists/gamma/entropy` [(#4349)](https://github.com/stdlib-js/stdlib/pull/4349) _(by Neeraj Pathak, Philipp Burckhardt, stdlib-bot)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Neeraj Pathak
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
