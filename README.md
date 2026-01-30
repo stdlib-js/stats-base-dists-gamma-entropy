@@ -69,6 +69,11 @@ where `Γ` and `Ψ` denote the [gamma][gamma-function] and [digamma][digamma] fu
 ## Usage
 
 ```javascript
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma-entropy@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-gamma-entropy/tags). For example,
+
+```javascript
 import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma-entropy@v0.3.0-esm/index.mjs';
 ```
 
@@ -146,7 +151,7 @@ v = entropy( 1.0, -1.0 );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@esm/index.mjs';
-import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma-entropy@v0.3.0-esm/index.mjs';
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma-entropy@esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
