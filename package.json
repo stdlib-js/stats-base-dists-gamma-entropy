@@ -44,7 +44,8 @@
     "@stdlib/math-base-special-digamma": "^0.3.0",
     "@stdlib/math-base-special-gammaln": "^0.3.0",
     "@stdlib/math-base-special-ln": "^0.2.5",
-    "@stdlib/utils-library-manifest": "^0.2.4"
+    "@stdlib/utils-library-manifest": "^0.2.4",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/array-float64": "^0.2.3",
