@@ -69,7 +69,7 @@ where `Γ` and `Ψ` denote the [gamma][gamma-function] and [digamma][digamma] fu
 ## Usage
 
 ```javascript
-import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma-entropy@deno/mod.js';
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma-entropy@v0.3.1-deno/mod.js';
 ```
 
 #### entropy( alpha, beta )
@@ -141,7 +141,7 @@ v = entropy( 1.0, -1.0 );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@deno/mod.js';
-import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma-entropy@deno/mod.js';
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma-entropy@v0.3.1-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
